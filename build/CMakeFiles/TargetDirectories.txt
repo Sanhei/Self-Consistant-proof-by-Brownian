@@ -1,0 +1,13 @@
+/net/data04/fu5030ky/Brownian_Study/Friction_kernel/build/CMakeFiles/install/strip.dir
+/net/data04/fu5030ky/Brownian_Study/Friction_kernel/build/CMakeFiles/install/local.dir
+/net/data04/fu5030ky/Brownian_Study/Friction_kernel/build/CMakeFiles/install.dir
+/net/data04/fu5030ky/Brownian_Study/Friction_kernel/build/CMakeFiles/list_install_components.dir
+/net/data04/fu5030ky/Brownian_Study/Friction_kernel/build/CMakeFiles/rebuild_cache.dir
+/net/data04/fu5030ky/Brownian_Study/Friction_kernel/build/CMakeFiles/edit_cache.dir
+/net/data04/fu5030ky/Brownian_Study/Friction_kernel/build/src/CMakeFiles/install/strip.dir
+/net/data04/fu5030ky/Brownian_Study/Friction_kernel/build/src/CMakeFiles/install/local.dir
+/net/data04/fu5030ky/Brownian_Study/Friction_kernel/build/src/CMakeFiles/install.dir
+/net/data04/fu5030ky/Brownian_Study/Friction_kernel/build/src/CMakeFiles/list_install_components.dir
+/net/data04/fu5030ky/Brownian_Study/Friction_kernel/build/src/CMakeFiles/rebuild_cache.dir
+/net/data04/fu5030ky/Brownian_Study/Friction_kernel/build/src/CMakeFiles/edit_cache.dir
+/net/data04/fu5030ky/Brownian_Study/Friction_kernel/build/src/CMakeFiles/main.dir

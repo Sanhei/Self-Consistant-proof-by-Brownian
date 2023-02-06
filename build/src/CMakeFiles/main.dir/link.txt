@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -Wall -std=c++11 -pedantic -O2 -g -DNDEBUG -rdynamic CMakeFiles/main.dir/main.cpp.o -o main  /usr/lib/x86_64-linux-gnu/libboost_system.so.1.74.0 /usr/lib/x86_64-linux-gnu/libboost_program_options.so.1.74.0 
